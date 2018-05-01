@@ -12,7 +12,7 @@ module FancyDance
   end
 
   def take_a_bow
-    "Thank you, thank you. It was a pleasure to dace for you at all."
+    "Thank you, thank you. It was a pleasure to dace for you all."
   end
 end
 
